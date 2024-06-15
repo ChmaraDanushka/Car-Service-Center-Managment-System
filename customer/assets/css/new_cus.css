@@ -1,0 +1,279 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+   
+}
+
+body{
+ 
+}
+
+.id_search input{
+    border: none;
+    height: 30px;
+    width: 300px;
+}
+
+.id_search #find{
+color: rgb(255, 255, 255);
+height: 30px;
+width: 100px;
+background-color: rgb(61, 113, 255);
+}
+
+.hedder{
+    
+    height: 100%;
+    width:  23%;
+    background-color: white;
+    padding-left: 11px; 
+    margin-top: -19px;
+    margin-bottom: 25px;
+}
+
+.hedder h7{
+    font-size: 13px;
+}
+
+.newvehical{
+    
+    height: 100%;
+    width:  100%;
+  
+    display: ;
+    margin: auto;
+}
+
+.mainone{
+    height: 100%;
+    width: 40%;
+    background:red;
+   float: left;
+   padding-left: ;
+   margin-left: 6%;
+   float: left;
+}
+
+.maintwo{
+    height:100%;
+    width: 30%;
+    background: green ;
+    float: right;
+    margin-top: 65px;
+    margin-right: 24%;
+   
+}
+
+.mainthree{
+    display: ;
+    height: 100%;
+    width: 40%;
+    background-color:rgb(0, 0, 0);
+    float: left;
+    margin-left: 6%;
+   
+}
+
+.mainfour{
+    display: ;
+    height: 100%;
+    width: 30%;
+    background-color: ;
+    float: left;
+    margin-left: 18%;
+   
+}
+
+.mainfive{
+    display: ;
+    height: 100%;
+    width: 30%;
+    background-color: ;
+    float: left;
+
+   
+}
+
+.mainone input{
+    display: ;
+    width: 100%;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 90%;
+    padding-left: 7%;
+}
+
+.maintwo input{
+    padding-left: 7%;
+}
+
+
+.mainthree input{
+    display: ;
+    width: 100%;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 90%;
+    padding-left: 7%;
+}
+
+.mainfour input{
+    display: ;
+    width: 100%;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 90%;
+    padding-left: 7%;
+}
+
+
+.mainfive input{
+    display: ;
+    width: 100%;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 90%;
+    padding-left: 7%;
+}
+
+
+
+
+ .left{
+height: 100%;
+width: 80%;
+background-color:;
+float: left;
+margin-left:5%;
+padding-top: 20px;
+}
+
+
+.right{
+    height: 100%;
+    width: 80%;
+    background-color:;
+    float: left;
+    margin-left:5%;
+    padding-top: 20px;
+    }
+
+.left1{
+    height: 100%;
+    width: 80%;
+    background-color:;
+    float: left;
+    margin-left:5%;
+    padding-top: 20px;
+    }
+
+    
+    .mainfour .right1{
+    height: 100%;
+    width: 80%;
+    background-color:;
+    float: left;
+    margin-left:5%;
+    padding-top: 20px;
+    }
+
+    .mainfive .left2{
+        height: 100%;
+        width: 80%;
+        background-color:;
+        float: left;
+        margin-left:5%;
+        padding-top: 20px;
+        }
+
+.left .inputa input{
+      padding-left: 10px;
+}
+
+.left .inputa input::placeholder{
+    color: rgb(191, 191, 191);
+}
+
+.right .inputa input{
+    padding-left: 10px;
+}
+
+.right .inputa input::placeholder{
+    color: rgb(191, 191, 191);
+}
+
+
+
+    .b_left{
+        height: 100%;
+        width: 30%;
+        background-color: ;
+        float: left;
+        margin-left:20%;
+        padding-top: 20px;
+        
+        
+        
+        }
+        
+         .b_right{
+            height: 100%;
+            width: 30%;
+            background-color: ;
+            float: left;
+            margin:auto;
+            padding-top: 20px;
+            margin-left: 4%;
+            }
+
+            .bb_right{
+                height: 100%;
+                width: 50%;
+                background-color: ;
+                float: left;
+                margin-left:20%;
+                
+                }
+
+                .bb_right .submit input{
+                 width: 70%;
+                 height: 30px;
+                 background-color: rgb(0, 72, 255);
+                 margin-left: 98%;
+                 margin-top: 30px;
+                 color: aliceblue;
+                 border: none;
+                    }
+
+                    .bb_right .submit input:hover{
+                        background-color: rgb(100, 255, 120);
+                    }
+            
+        
+.maintwo input{
+    display: ;
+    width: 200px;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+}
+.maintwo select{
+    width: 100%;
+    height: 30px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 10px;
+    border: none;
+    
+}
+
+.vehicle_di{
+    position: absolute;
+}
+
+

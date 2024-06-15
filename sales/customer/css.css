@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+body{
+    background: rgb(231, 231, 231);
+}
+
+.hedder{
+    height: 100%;
+    width:  50%;
+    background-color: ;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.newvehical{
+    height: 100%;
+    width:  50%;
+    background: ;
+    display: ;
+    margin: auto;
+}
+
+.mainone{
+    height: 100%;
+    width: 100%;
+    background: ;
+   float: left;
+   padding-left: ;
+}
+
+.maintwo{
+    height: 100%;
+    width: 100%;
+    background-color: ;
+   
+}
+
+.mainone input{
+    display: ;
+    width: 100%;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 90%;
+}
+
+
+ .left{
+height: 100%;
+width: 30%;
+background-color: ;
+float: left;
+margin-left:20%;
+padding-top: 20px;
+}
+
+.left .inputa input{
+      padding-left: 10px;
+}
+
+.right .inputa input{
+    padding-left: 10px;
+}
+
+ .right{
+    height: 100%;
+    width: 30%;
+    background-color: ;
+    float: left;
+    margin:auto;
+    padding-top: 20px;
+    margin-left: 15px;
+    }
+    
+
+    .b_left{
+        height: 100%;
+        width: 30%;
+        background-color: ;
+        float: left;
+        margin-left:20%;
+        padding-top: 20px;
+        
+        
+        
+        }
+        
+         .b_right{
+            height: 100%;
+            width: 30%;
+            background-color: ;
+            float: left;
+            margin:auto;
+            padding-top: 20px;
+            margin-left: 4%;
+            }
+
+            .bb_right{
+                height: 100%;
+                width: 50%;
+                background-color: ;
+                float: left;
+                margin-left:20%;
+                
+                }
+
+                .bb_right .submit input{
+                 width: 30%;
+                 background-color: rgb(136, 255, 152);
+                 margin-left: 98%;
+                 margin-top: 30px
+                    }
+
+                    .bb_right .submit input:hover{
+                        background-color: rgb(100, 255, 120);
+                    }
+            
+        
+.maintwo input{
+    display: ;
+    width: 200px;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+}
+.maintwo select{
+    width: 100%;
+    height: 30px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 10px;
+    border: none;
+    
+}
+
+
+
+

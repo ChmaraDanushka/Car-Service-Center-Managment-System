@@ -1,0 +1,493 @@
+*{
+    margin: auto;
+    padding: auto;
+   
+    
+    
+
+}
+
+
+body{
+    font-size: 100%;
+    font-family: sans-serif;
+  width: 100%;
+  height: 100%;
+
+    background-color: rgb(127, 42, 255);
+}
+
+.all{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+/*css reset*/
+#home{
+  
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color:rgb(127, 42, 255) ;
+}
+
+
+
+
+
+
+#menu li{
+    list-style: none;
+    display: inline-block;
+    margin: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+#menu li a{
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+    font-size: 13px;
+    color: seashell;
+    opacity: 80%;
+    
+}
+
+#menu li a:hover{
+    opacity: 100%;
+}
+section{
+    width: 100%;
+    float: left;
+    height: 100%;
+    position: relative;
+}
+
+.background{
+     height: 700px;
+     width: 100%;
+     background-color: ;
+}
+
+#home_img{
+   background-color: rgb(127, 42, 255);
+  
+ 
+}
+
+#services{
+     background-color:rgb(127, 42, 255) ;
+     
+}
+
+#about{
+     background-color:rgb(127, 42, 255) ;
+
+     
+}
+
+#location{
+     background-color: rgb(127, 42, 255);
+     
+}
+
+#footer{
+     background-color: rgb(127, 42, 255);
+     
+}
+
+
+#home #home_img {
+
+    height: 100%;
+    width: 100%;
+   background-color: ;
+    float: left;
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+
+}
+
+
+
+.img_back img{
+    position: absolute;
+    height: 85%;
+    width: 100%;
+    margin-top: 3%;
+   margin-left: 2%; 
+    background-repeat: no-repeat;
+    transition: 1s;
+    
+}
+
+.img_back img:hover{
+    height: 86%;
+    width: 101%;
+}
+
+.req{
+    margin-right: 4%;
+}
+
+
+
+
+.head_text{
+    height: 50%;
+    width: 35%;
+    background: ;
+  
+    padding-top: 10%;
+    margin-left: 60px;
+  
+
+}
+
+.div_head_img{
+    margin-top: 5%;
+  
+    float:right;
+    height: 80%;
+    width: 50%;
+    background-image:url(images/www2.png);
+    background-size: 90% 90%;
+   background-color: ;
+    background-repeat: no-repeat;
+   margin-right: 2%;
+}
+
+
+
+.head_text button{
+    padding: 2%;
+     padding-left: 5%;
+     padding-right: 5%;
+    border: none;
+    background-color: rgba(55, 115, 255, 0.619);
+    color: rgb(255, 255, 255);
+     font-family: 'Ubuntu', sans-serif;
+     margin-top: 4%;
+     margin-bottom:16%;
+    border-radius: 20px;
+     overflow: hidden;
+     margin-left:;
+     border-radius:;
+     cursor: pointer;
+     font-size: 80%;
+}
+
+.head_text button:hover{
+    background-color: #65adffb1;
+}
+
+
+
+
+
+
+.head_text p{
+    margin-top: 4%;
+   font-size: 190%;
+    font-family: 'Ubuntu', sans-serif;
+     margin-bottom:7px;
+     color: rgb(255, 255, 255);
+}
+
+
+
+.head_text h2{
+   font-size: 250%;  
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(255, 255, 255);
+    
+}
+
+
+
+.head_text .dis{
+    margin-top:7px;
+    font-size:70% ;
+    display: ;
+}
+
+.s_icons{
+height: 10%;
+width: 25%;
+background-color:;
+   position:absolute ;
+   margin-left: 79%;
+   margin-top: -1.6%;
+}
+
+.s_icons ul li{
+ float: left;
+ margin-left: 1%;
+
+ margin-left: 10%;
+
+ list-style: none;
+ font-size: 100%;
+
+}
+
+.s_icons ul li i{
+    height: 54%;
+    width:54%;
+    margin-bottom: ;
+    
+    opacity: 70%; 
+    color: bisque;
+}
+
+.s_icons ul li i:hover{
+    opacity: 100%; 
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+.s_left{
+height: 90%;
+width: 50%;
+background-color: ;
+float: left;
+margin-left: 2.5%;
+}
+.s_left img{
+    margin-top: 4%;
+}
+
+.s_right{
+    height: 80%;
+    width: 40%;
+    background-color: ;
+    float: left;
+    text-align: center;
+    padding-left: 5%;
+}
+
+.s_right h4{
+    font-size: 140%;  
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: 12%;
+}
+
+.s_right p{
+    font-size: 250%;  
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+.a_left{
+    height: 80%;
+    width: 50%;
+    background-color:;
+    float: left;
+    text-align: center;
+    
+    }
+    .a_right{
+        height: 75%;
+        width: 35%;
+       
+        background-color: rgba(102, 51, 153, 0);
+        float: right;
+    }
+
+    .a_left h4{
+        font-size: 140%;  
+        font-family: 'Ubuntu', sans-serif;
+        color: rgb(255, 255, 255);
+        margin-top: 12%;
+    }
+    
+    .a_left p{
+        font-size: 250%;  
+        font-family: 'Ubuntu', sans-serif;
+        color: rgb(255, 255, 255);
+    }
+    
+
+    .a_right img{
+        margin-top:23%;
+        margin-bottom: 15%;
+        margin-left:-40%;
+    }
+    .l_left{
+      margin-left: 4%;
+    }
+
+
+      .l_left{
+        padding-top: -10%;
+        height: 90%;
+        width: 50%;
+        background-color;
+        float: left;
+        }
+
+        .location{
+
+          padding: 0.5% 2% 0.5% 2%;
+           border: none;
+           background-color: #fa7474c6;
+           color: rgb(255, 255, 255);
+            font-family: 'Ubuntu', sans-serif;
+           border-radius: 20px;
+            overflow: hidden;
+            margin-left: 1%;
+            cursor: pointer;
+            font-size: 60%; 
+            margin-bottom: 10%;
+           }
+
+           
+        .l_right{
+           text-align: center;
+        }
+        .l_right h4{
+            font-size: 140%;  
+            font-family: 'Ubuntu', sans-serif;
+            color: rgb(255, 255, 255);
+            margin-top: 5%;
+        }
+        
+        .l_right p{
+            font-size: 250%;  
+            font-family: 'Ubuntu', sans-serif;
+            color: rgb(255, 255, 255);
+        }
+    
+
+    
+#location{
+    background-color: ; 
+    height: 100%;
+}
+
+iframe{
+    width: 100%;
+    height: 400px;
+}
+
+.fot{
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    background-color;
+    margin-top: -22px;
+}
+
+.fot img{
+   margin-top: -3%;
+    width: 100%;
+    
+}
+
+.conta{
+   
+    width: 100%;
+    background-color: red;
+}
+
+.footer-dark {
+    padding:50px 0;
+    color:#f0f9ff;
+    background-color:#606060;
+  }
+  
+  .footer-dark h3 {
+    margin-top:0;
+    margin-bottom:12px;
+    font-weight:bold;
+    font-size:16px;
+  }
+  
+  .footer-dark ul {
+    padding:0;
+    list-style:none;
+    line-height:1.6;
+    font-size:14px;
+    margin-bottom:0;
+  }
+  
+  .footer-dark ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.6;
+  }
+  
+  .footer-dark ul a:hover {
+    opacity:0.8;
+  }
+  
+  @media (max-width:767px) {
+    .footer-dark .item:not(.social) {
+      text-align:center;
+      padding-bottom:20px;
+    }
+  }
+  
+  .footer-dark .item.text {
+    margin-bottom:36px;
+  }
+  
+  @media (max-width:767px) {
+    .footer-dark .item.text {
+      margin-bottom:0;
+    }
+  }
+  
+  .footer-dark .item.text p {
+    opacity:0.6;
+    margin-bottom:0;
+  }
+  
+  .footer-dark .item.social {
+    text-align:center;
+  }
+  
+  @media (max-width:991px) {
+    .footer-dark .item.social {
+      text-align:center;
+      margin-top:20px;
+    }
+  }
+  
+  .footer-dark .item.social > a {
+    font-size:20px;
+    width:36px;
+    height:36px;
+    line-height:36px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    box-shadow:0 0 0 1px rgba(255,255,255,0.4);
+    margin:0 8px;
+    color:#fff;
+    opacity:0.75;
+  }
+  
+  .footer-dark .item.social > a:hover {
+    opacity:0.9;
+  }
+  
+  .footer-dark .copyright {
+    text-align:center;
+    padding-top:24px;
+    opacity:0.3;
+    font-size:13px;
+    margin-bottom:0;
+  }
+
+
+  
+  https://epicbootstrap.com/snippets/footer-dark

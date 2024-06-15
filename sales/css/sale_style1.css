@@ -1,0 +1,154 @@
+.select_product{
+    border: none;
+    margin-left: auto;
+    background: #ebebeb;
+
+    
+}
+
+.pro_list table {
+    width: 550px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: -10px;
+    text-align: center;
+    
+}
+
+.pro_list table thead tr{
+    font-size: 13px;
+   
+}
+
+
+.pro_list table thead{
+    background-color: rgb(230, 230, 230);
+    
+}
+
+.pro_list table tbody tr{
+    font-size: 12px;
+    width: 500px;
+    border:solid 1px azure;
+}
+
+.total{
+    width: 70px;
+    background: none;
+    border:none;
+
+}
+
+.quantity{
+    
+    background: rgb(235, 235, 235);
+    border:none; 
+}
+
+#DatePicker1{
+    width: 100px;
+    border: none;
+}
+
+#box0{
+    background-color: none;
+    width: 400px;
+    margin-bottom: 10px;
+   
+}
+
+#box0 span{
+    margin-right: 105px;
+}
+
+#box0 input{
+    padding: 4px;
+    text-align: center;
+    width: 160px;
+}
+
+.bill_input1{
+    margin-left: 30px;
+
+}
+
+
+
+.bill_input2{
+    margin-left: 32px;
+    margin-bottom: 20px;
+    
+}
+
+.bill_input3{
+    margin-left: 64px;
+    margin-bottom: 20px;
+    border:none;
+    background: rgb(235, 235, 235);
+}
+
+.bill_input4{
+    margin-left: 58px;
+
+}
+
+.bill_input5{
+    margin-left: 71px;
+}
+
+.class_payment_method{
+    margin-left: 121px;
+    margin-bottom: 10px;
+    
+}
+
+
+.class_payment_method{
+   padding:4px;
+   margin-right: ;
+   width: 300px;
+   background-color: rgb(228, 228, 228);
+   border:none
+}
+
+.bill_submit{
+    border: none;
+    padding: 10px;
+    width: 384px;
+    border-radius: 10px;
+    background-color: rgb(161, 255, 199);
+    margin-bottom: 5px;
+    color: white;
+}
+
+.bill_submit:hover{
+
+    background-color: rgb(108, 255, 167);
+ 
+}
+
+.bill_reject{
+    border: none;
+    padding: 10px;
+    width: 384px;
+    border-radius: 10px;
+    background-color: rgb(255, 161, 161);
+    color: white;
+}
+
+.bill_reject:hover{
+    background-color: rgb(255, 108, 108);
+}
+
+.cus_details1{
+     background-color: ;
+     margin-right: 185px;
+}
+.cus_details2{
+    background-color: ;
+    margin-right: 180px;
+}
+.cus_details3{
+    background-color: ;
+    margin-right: 147px;
+}

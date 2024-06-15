@@ -1,0 +1,175 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+   
+}
+
+body{
+ 
+}
+
+.id_search input{
+    border: none;
+    height: 30px;
+    width: 300px;
+}
+
+.form{
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 1px solid rgb(209, 209, 209);
+    height: 400px;
+    width: 89%;
+    padding: 20px;
+    background: rgb(255, 255, 255);
+    border-top: 3px solid rgb(0, 157, 255);
+
+    
+}
+
+.id_search #find{
+color: rgb(255, 255, 255);
+height: 30px;
+width: 100px;
+background-color: rgb(61, 113, 255);
+}
+
+.hedder{
+    
+    height: 100%;
+    width:  23%;
+    background-color: white;
+    padding-left: 11px; 
+    margin-top: -19px;
+    margin-bottom: 25px;
+}
+
+.hedder h7{
+    font-size: 13px;
+}
+
+.newvehical{
+    
+    height: 100%;
+    width:  100%;
+  
+    display: ;
+    margin: auto;
+}
+
+.mainone{
+    height: 100%;
+    width: 40%;
+    background:;
+   float: left;
+   padding-left: ;
+   margin-left: 10%;
+   float: left;
+}
+
+.maintwo{
+    height:100%;
+    width: 50%;
+    background: ;
+    float: right;
+    margin-top: px;
+    margin-right: ;
+    
+   
+}
+
+
+
+.mainone input{
+    display: ;
+    width: 100%;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 90%;
+    padding-left: 7%;
+    background: rgb(236, 236, 236);
+
+}
+
+.maintwo select{
+    display: ;
+    width: 500px;
+    height: 30px;
+   
+    margin-bottom: 10px;
+    font-size: 90%;
+    padding-left: 7%;
+    background: rgb(236, 236, 236);
+}
+
+
+
+
+
+ .left{
+height: 100%;
+width: 80%;
+background-color:;
+float: left;
+margin-left:5%;
+padding-top: 20px;
+}
+
+
+.right{
+    height: 100%;
+    width: 80%;
+    background-color:;
+    float: left;
+    margin-left:5%;
+    padding-top: 20px;
+    }
+
+
+
+        
+    .submit {
+        margin-right: 375px;
+        margin-top: -40px;
+        
+    }
+                .submit input{
+                 width: 1000px;
+                 height: 30px;
+                 background-color: rgb(66, 251, 110);
+                
+                 margin-top: 30px;
+                 color: aliceblue;
+                 border: none;
+                    }
+
+                     .submit input:hover{
+                        background-color: rgb(100, 255, 120);
+                    }
+            
+        
+.maintwo input{
+    display: ;
+    width: 100px;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+    
+}
+.inputb{
+    margin-top: 40px;
+    padding-left: 10px;
+}
+.inputb select{
+    width: 70%;
+    height: 30px;
+    padding-top: 2px;
+    margin-bottom: -20px;
+    border: none;
+    
+}
+
+
+

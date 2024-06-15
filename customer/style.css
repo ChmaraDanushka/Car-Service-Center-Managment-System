@@ -1,0 +1,99 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+
+.newvehical 
+{
+	height: 100%;
+	width: 90%;
+	background: pink;
+
+}
+
+.inputa .select{
+	height: 30px;
+	width: 100%;
+	
+}
+
+select{
+	width: 500px;
+	height:50px;
+	background: yellow;
+	padding: 12px;
+}
+
+input 
+
+.inputb .select{
+	height: 30px;
+	width: 100%;
+}
+.mainone
+{
+	height: 100%;
+	width: 15%;
+	
+    float: left;
+}
+
+.mainone .inputa{
+	margin-bottom: 14px;
+
+
+}
+
+.maintwo 
+{
+    margin-left: 20px;
+	height: 100%;
+	width: 15%;
+	background: #E6E6E6;
+    float: left;
+}
+
+.maintwo label {
+	margin-top: 10px;
+}
+
+.maintwo .inputb{
+	width: 200px;
+	height: 50px
+	padding: 12px;
+	background: pink;
+}
+
+.submit{
+
+	background-color: red;
+	height: 40px;
+	width: 50px;
+	font-size: 30px;
+	float:right;
+}
+
+.inputa input
+{
+	height: 20px;
+	width: 100%;
+}
+.inputa select
+{
+	height: 20px;
+	width: 100%;
+}
+
+.inputb
+{
+	height: 20px;
+	width: 100%;
+}
+
+.inputb select
+{
+	height: 20px;
+	width: 100%;
+}
